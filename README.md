@@ -13,6 +13,32 @@ which when clicked takes you to the Colaboratory website.
 
 Colaboratory provides cloud computing, so you can modify part of the tutorials and retrain the models to test your modifications. 
 
+## Using Basic Packages
+
+In this course, we will primarily focus on using the basic Python packages: NumPy, Pandas, Matplotlib, and Seaborn for data analysis and visualisation. These packages provide a solid foundation for data science and analysis tasks. It is important that you become proficient in using these fundamental tools before venturing into more specialised packages.
+
+Please refrain from using additional packages unless explicitly instructed to do so. This will help you build a strong understanding of the core concepts and ensure that you are well-equipped to tackle a wide range of data-related tasks.
+
+## Getting Started
+
+To get started with Python and these basic packages, we recommend the following tutorials:
+
+1. **Python Programming:** 
+   - [Python.org's Official Python Tutorial](https://docs.python.org/3/tutorial/index.html): A comprehensive guide to Python programming.
+
+2. **NumPy:** 
+   - [NumPy Quickstart Tutorial](https://numpy.org/doc/stable/user/quickstart.html): An official guide to getting started with NumPy.
+
+3. **Pandas:** 
+   - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/index.html): Official Pandas documentation with tutorials and examples.
+
+4. **Matplotlib and Seaborn:** 
+   - [Matplotlib Tutorials](https://matplotlib.org/stable/tutorials/index.html): Official Matplotlib tutorials and examples.
+   - [Seaborn Documentation](https://seaborn.pydata.org/tutorial.html): Official Seaborn tutorial and documentation.
+
+These resources will provide you with a solid foundation in Python and the basic data manipulation and visualisation tools. As the course progresses, we will introduce additional packages as needed.
+
+
 
 ## Links to the notebooks
 Sometimes the notebooks do not render correctly in GitHub. You can access directly the notebook in the Colab environment using the following links.
@@ -32,3 +58,15 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
 ### * [k-NN](https://colab.research.google.com/github/abuebayyeh/imperial_eee_machine_learning_course/blob/main/07_ML_kNN.ipynb)
   
 ### * [Clustering](https://colab.research.google.com/github/abuebayyeh/imperial_eee_machine_learning_course/blob/main/08_ML_Clustering.ipynb)
+
+
+---
+
+
+Happy learning!
+
+Best regards,
+Abdalrahman M. Abu Ebayyeh
+
+---
+
