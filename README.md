@@ -66,6 +66,7 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
 Happy learning!
 
 Best regards,
+
 Abdalrahman M. Abu Ebayyeh
 
 ---
