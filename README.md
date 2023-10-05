@@ -1,6 +1,6 @@
 # Machine Learning Course
 
-Welcome! Here we will upload the different tutorials for the Machine Learning course. 
+Welcome! Here the different tutorials for the Machine Learning course are uploaded. 
 We will use Python and [Jupyter Notebook](https://jupyter.org/). Also, the tutorials use [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb), which is a free Jupyter notebook environment that runs in the cloud. 
 
 Each of the notebooks contains this image
